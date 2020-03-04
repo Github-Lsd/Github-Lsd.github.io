@@ -12,10 +12,10 @@
 
 
 <center>Home Page 1.0 beta</center> 
-<center>Continue to update.........</center>
- 
- 
- 
- 
- 
+<center>Continue to update.....</center>
+  
+  
+  
+  
+  
 <center> Copyright©2020, alanlin.cn. All rights reserved.</center>
