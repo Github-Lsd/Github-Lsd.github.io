@@ -2,6 +2,7 @@
 
 ### About Me
 
+
 + Address:Amoy
 + Form:[Jimei University](https://www.jmu.edu.cn/)
 + [My Github](https://github.com/Github-Lsd)
@@ -9,7 +10,6 @@
 + [cnbolgs](https://www.cnblogs.com/blogs-lin/)
 + [Email for work](work.alanlin@gmail.com)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-#### Home Page 1.0beta
-Continue to update.........
+ ####       Home Page 1.0beta 
+<center>Continue to update.........</center>
