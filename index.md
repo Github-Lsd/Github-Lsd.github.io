@@ -10,12 +10,11 @@
 + [cnbolgs](https://www.cnblogs.com/blogs-lin/)
 + Email for work:<work.alanlin@gmail.com>
 
-
+<br />
 <center>Home Page 1.0 beta</center> 
-<center>Continue to update.....</center>
-  
-  
-  
-  
-  
+<center>Continue to update...</center>
+<br />
+<br />
+<br />
+<br />
 <center> Copyright©2020, alanlin.cn. All rights reserved.</center>
