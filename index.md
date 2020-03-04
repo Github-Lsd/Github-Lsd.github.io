@@ -8,14 +8,14 @@
 + [My Github](https://github.com/Github-Lsd)
 + [CSDN blog](https://blog.csdn.net/weixin_44429264)
 + [cnbolgs](https://www.cnblogs.com/blogs-lin/)
-+ [Email for work](work.alanlin@gmail.com)
++ Email for work:<work.alanlin@gmail.com>
 
 
 <center>Home Page 1.0 beta</center> 
 <center>Continue to update.........</center>
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 <center> Copyright©2020, alanlin.cn. All rights reserved.</center>
