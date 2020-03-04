@@ -11,5 +11,5 @@
 + [Email for work](work.alanlin@gmail.com)
 
 
- ####       Home Page 1.0beta 
+<center>Home Page 1.0beta</center> 
 <center>Continue to update.........</center>
