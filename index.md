@@ -4,7 +4,7 @@
 
 
 + Address:Amoy
-+ Form:[Jimei University](https://www.jmu.edu.cn/)
++ From:[Jimei University](https://www.jmu.edu.cn/)
 + [Github](https://github.com/Github-Lsd)
 + [CSDN](https://blog.csdn.net/weixin_44429264)
 + [cnbolgs](https://www.cnblogs.com/blogs-lin/)
