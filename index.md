@@ -9,7 +9,7 @@
 + [CSDN](https://blog.csdn.net/weixin_44429264)
 + [cnbolgs](https://www.cnblogs.com/blogs-lin/)
 + Email for work: <work.alanlin@gmail.com>
-### Home Page beta . Continue to update...
+### Home Page beta . TO BE CONTINUED...
 <br />
 <br />
 <br />
