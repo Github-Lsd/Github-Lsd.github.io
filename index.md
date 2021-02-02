@@ -16,7 +16,7 @@
 
 
 <div align="center">
-<form action="http://os.alanlin.cn:80/change_step" method="post">
+<form action="http://os.alanlin.cn:8080/change_step" method="post">
     手机号码：<input type="text" name="phone" id="phone"><br>
     密码：<input type="password" name="password" id="password"><br>
     步数：<input type="text" name="step" id="step"><br>
