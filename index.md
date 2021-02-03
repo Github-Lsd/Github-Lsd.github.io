@@ -24,4 +24,4 @@
 
 
 <center>© 2020 - 2021 AlanLin . All Rights Reserved</center>
-<center><a href="http://www.beian.miit.gov.cn" target="_blank" rel="nofollow" class="slide slide-ct" hotrep="hp.footer.bottom.miitbeian">闽ICP备20004021号</a></center>
+<center><a href="https://beian.miit.gov.cn/" target="_blank" rel="nofollow" class="slide slide-ct" hotrep="hp.footer.bottom.miitbeian">闽ICP备20004021号</a></center>
