@@ -16,9 +16,8 @@
 
 
 <div align="center">
-    <button herf="change_step.html">点我</button>
+    <input type="button" onclick="window.location.href='change_step.html'" value="点我">
 </div>
-<br />
 <br />
 <br />
 
